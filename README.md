@@ -1,4 +1,4 @@
-# Capstone_project
+# Hadoop_SFDA_project
 
 Hadoop and MapReduce Weekly Project
 ------------------------------------------------
