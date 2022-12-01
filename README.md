@@ -1,6 +1,6 @@
 # Hadoop_SFDA_project
 
-Hadoop and MapReduce Weekly Project
+Hadoop and MapReduce 
 ------------------------------------------------
 Medical Devices Licensed Non-Local Based on Hadoop Ecosystem
 
